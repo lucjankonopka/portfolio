@@ -29,6 +29,7 @@ Greetings! My name is Lucjan, and I'm excited to share my developing data analys
 
 - Brief overview: Tableau Public visualization that displays selected statistics for Premier League teams over multiple seasons.
 - Technology used: *tableau*
+- Data source: [Kaggle](www.kaggle.com/datasets/pablohfreitas/all-premier-league-matches-20102021)
 
 ### [Python/Pandas - Premier League 2010/11 League Table](https://github.com/lucjankonopka/pandas_data_analysis) 
 
