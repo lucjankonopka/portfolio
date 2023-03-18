@@ -23,6 +23,11 @@ Greetings! My name is Lucjan, and I'm excited to share my developing data analys
 - Brief overview: ------------------------------------
 - Technology used: *MySQL, sql, python, ipython-sql*
 
+### [Tableau Public - Premier League Teams Performance Analysis](https://github.com/lucjankonopka/pandas_data_analysis) 
+
+- Brief overview: Tableau Public visualization that displays selected statistics for Premier League teams over multiple seasons.
+- Technology used: *tableau*
+
 ### [Python/Pandas - Premier League 2010/11 League Table](https://github.com/lucjankonopka/pandas_data_analysis) 
 
 - Brief overview: Simple operations on raw data to create a league table after Premier League season 2010/2011.
