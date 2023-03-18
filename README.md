@@ -1,9 +1,7 @@
 # Data Analyst Portfolio
 
 Greetings! My name is Lucjan, and I'm excited to share my developing data analyst portfolio. Within this repository, you'll find a comprehensive catalog of projects completed in various data analytics courses, each of which covers essential skills and techniques.
-
-## Contents
-
+#
 ### [Google Data Analytics Capstone: Complete a Case Study](https://github.com/lucjankonopka/cyclistic_case_study)
 
 - Brief overview: Following case study was completed as part of the [Google Data Analytics Certificate](https://www.credly.com/badges/d8457d2e-06e4-4142-8ea1-4cfd52f24c67/linked_in_profile).
@@ -48,4 +46,5 @@ Greetings! My name is Lucjan, and I'm excited to share my developing data analys
 
 # 
 [My LinkedIn Profile](https://www.linkedin.com/in/lucjankonopka/)
+
 [My Tableau Profile](https://public.tableau.com/app/profile/lucjan.konopka)
