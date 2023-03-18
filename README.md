@@ -7,12 +7,13 @@ Greetings! My name is Lucjan, and I'm excited to share my developing data analys
 - Brief overview: Following case study was completed as part of the [Google Data Analytics Certificate](https://www.credly.com/badges/d8457d2e-06e4-4142-8ea1-4cfd52f24c67/linked_in_profile).
 - Methodology: data preprocessing, data cleaning, data analysis, visualization, making conclusions, creating a strategy proposal
 - Technology used: *python, pandas, matplotlib, numpy, seaborn*
-- Final results: 
+- Final results: [*analysis & visualisation*](https://github.com/lucjankonopka/cyclistic_case_study/blob/main/How%20Does%20a%20Bike-Share%20%20Navigate%20Speedy%20Success.pdf)
 
 ### [Web Scrapping - Beautiful Soup](https://github.com/lucjankonopka/web_scrapping)
 
 - Brief overview:   Beautiful Soup tool used to extract data from [official Berlin website](https://www.berlin.de/restaurants/stadtteile/), create a dataset with all restaurants in Berlin and then visualize in form of map of restaurants in Tableau Public.
 - Technology used: *python, beautiful soup, pandas*
+- Final results: [*interactive map of restaurants in Berlin*](https://public.tableau.com/app/profile/lucjan.konopka/viz/RestaurantsinBerlin/RestaurantsinBerlin)
 
 ### [SQL - Simple Shop Database](https://github.com/lucjankonopka/sql_shop_database) 
 
