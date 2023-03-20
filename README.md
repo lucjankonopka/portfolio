@@ -20,10 +20,11 @@ Greetings! My name is Lucjan, and I'm excited to share my developing data analys
 - Brief overview: The project was performed for training purposes and serves only SQL practice. It is to create a simple relational database for a shop selling football shoes and perform a few operations on the database.
 - Technology used: *MySQL, sql, python, ipython-sql*
 
-### [SQL - Premier League Performance Analysis](------------------------------------) 
+### [SQL - Premier League Team's Performance Analysis](https://github.com/lucjankonopka/sql_premier_league) 
 
-- Brief overview: ------------------------------------
+- Brief overview: Analysis of each team's performance based on a database of all historical Premier League results.
 - Technology used: *MySQL, sql, python, ipython-sql*
+- Data source: [Kaggle](https://www.kaggle.com/datasets/evangower/premier-league-matches-19922022)
 
 ### [Tableau Public - Premier League Teams Performance Analysis](https://public.tableau.com/app/profile/lucjan.konopka/viz/PremierLeagueanalysis_16762432338890/PremierLeagueTeamsAnalysis) 
 
