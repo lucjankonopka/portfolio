@@ -1,6 +1,6 @@
-# Data Analyst Portfolio
+# Data Analyst/Engineer Portfolio
 
-Greetings! My name is Lucjan, and I'm excited to share my developing data analyst portfolio. Within this repository, you'll find a comprehensive catalog of projects completed in various data analytics courses, each of which covers essential skills and techniques.
+Greetings! My name is Lucjan, and I'm excited to share my developing data analyst/engineer portfolio. Within this repository, you'll find a comprehensive catalog of projects completed in various data analytics/engineering courses or self development exercises, each of which covers essential skills and techniques.
 #
 ### [Google Data Analytics Capstone: Complete a Case Study](https://github.com/lucjankonopka/cyclistic_case_study)
 
