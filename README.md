@@ -15,6 +15,13 @@ Greetings! My name is Lucjan, and I'm excited to share my developing data analys
 - Technology used: *python, beautiful soup, pandas*
 - Final results: [*interactive map of restaurants in Berlin*](https://public.tableau.com/app/profile/lucjan.konopka/viz/RestaurantsinBerlin/RestaurantsinBerlin)
 
+### [Dataflow Pipeline - Apache Beam](https://github.com/lucjankonopka/dataflow_pipeline_bicycles)
+
+- Brief overview:   Apache Beam model used to extract, transform and load data from BigQuery dataset (bigquery-public-data.london_bicycles.cycle_hire) with detailed informations about London bicycles to obtain some insight on London cycling behaviour. 
+The task was to get number of rides from one station to another and present the results in form of text file (start_id, end_id, number_of_rides)
+- Technology used: *python, dataflow, apache beam, Google Cloud Platform, Google Cloud SDK Shell*
+- Final results: [*output text file with results*](https://github.com/lucjankonopka/dataflow_pipeline_bicycles/blob/main/output.txt)
+
 ### [SQL - Simple Shop Database](https://github.com/lucjankonopka/sql_shop_database) 
 
 - Brief overview: The project was performed for training purposes and serves only SQL practice. It is to create a simple relational database for a shop selling football shoes and perform a few operations on the database.
