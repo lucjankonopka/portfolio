@@ -17,7 +17,7 @@ Greetings! My name is Lucjan, and I'm excited to share my developing data analys
 
 ### [Dataflow Pipeline - Apache Beam](https://github.com/lucjankonopka/dataflow_pipeline_bicycles)
 
-- Brief overview:   Apache Beam model was used to extract, transform and load data from BigQuery dataset (bigquery-public-data.london_bicycles.cycle_hire) with detailed informations about London bicycles to obtain some insight on London cycling behaviour. 
+- Brief overview:   Apache Beam model was used to extract, transform and load data from BigQuery dataset (bigquery-public-data.london_bicycles.cycle_hire) with some detailed informations about London bicycles to obtain some insight on London cycling behaviour. 
 The task was to get number of rides from one station to another and present the results in form of text file (start_id, end_id, number_of_rides)
 - Technology used: *python, dataflow, apache beam, Google Cloud Platform, Google Cloud SDK Shell*
 - Final results: [*output text file with results*](https://raw.githubusercontent.com/lucjankonopka/dataflow_pipeline_bicycles/main/output.txt)
