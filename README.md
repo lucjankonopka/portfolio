@@ -5,14 +5,14 @@ Greetings! My name is Lucjan, and I'm excited to share my still developing data 
 ### [Web Scrapping - Beautiful Soup](https://github.com/lucjankonopka/web_scrapping)
 
 - Brief overview:   Beautiful Soup tool used to extract data from [official Berlin website](https://www.berlin.de/restaurants/stadtteile/), create a dataset with all restaurants in Berlin and then visualize in form of map of restaurants in Tableau Public.
-- Technology used: *python, beautiful soup, pandas*
+- Technology used: *python, Beautiful Soup, pandas*
 - Final results: [*interactive map of restaurants in Berlin*](https://public.tableau.com/app/profile/lucjan.konopka/viz/RestaurantsinBerlin/RestaurantsinBerlin)
 
 ### [Apache Beam - Dataflow Pipeline](https://github.com/lucjankonopka/dataflow_pipeline_bicycles)
 
 - Brief overview:   Apache Beam model was used to extract, transform and load (ETL) data from BigQuery dataset (bigquery-public-data.london_bicycles.cycle_hire) with some detailed informations about London bicycles to obtain some insight on London cycling behaviour. 
 The task was to get number of rides from one station to another and present the results in form of text file (start_id, end_id, number_of_rides)
-- Technology used: *python, dataflow, apache beam, GCP, Google Cloud SDK Shell*
+- Technology used: *python, Apache Beam, GCP, Google Cloud SDK Shell*
 - Final results: [*output text file with results*](https://raw.githubusercontent.com/lucjankonopka/dataflow_pipeline_bicycles/main/output.txt)
   
 ### [Apache Spark - Similar Movies Finder](https://github.com/lucjankonopka/spark-movielens)
